@@ -1,5 +1,4 @@
 # Ex23 Breadth-First Search (BFS) Traversal of a City Junction Map
-## DATE:14-11-2025
 ## AIM:
 To design and implement a Python program to perform Breadth-First Search (BFS) traversal on a city’s junction map represented as a graph, and find all reachable locations from a given source junction.
 ## Algorithm
